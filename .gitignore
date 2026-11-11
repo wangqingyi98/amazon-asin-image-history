@@ -1,0 +1,4 @@
+﻿__pycache__/
+*.pyc
+asin_history/
+.DS_Store
